@@ -1,0 +1,8 @@
+director
+a person who directs the game
+
+responsibilty of a director is to control the sequence of play
+
+card 
+to keep track of its  number
+
